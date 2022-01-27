@@ -1,9 +1,9 @@
-# Ultroid - UserBot
-# Copyright (C) 2021-2022 TeamUltroid
+# dontknow-userbot
+# Copyright (C) 2021-2022 dontknow
 # This file is a part of < https://github.com/merarundme/dontknow/ >
 # PLease read the GNU Affero General Public License in <https://www.github.com/TeamUltroid/Ultroid/blob/main/LICENSE/>.
 
-FROM github.comrarunDME/dont-know
+FROM github.mrarunDME/dontknow
 
 # set timezone
 ENV TZ=Asia/Kolkata
