@@ -10,7 +10,7 @@
         "ultroid"
     ],
     "repository": "https://heroku.com/deploy?template=https://github.com/mrarunDME/dont-know",
-    "website": "https://ultroid.tech",
+    "website": "https://sandapodalama",
     "success_url": "https://t.me/sandapodalama",
     "stack": "container",
     "env": {
